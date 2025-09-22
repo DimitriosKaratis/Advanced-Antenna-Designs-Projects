@@ -3,7 +3,7 @@
 This repository contains the implementation of two projects in **Advanced Antenna Designs**, focusing on antenna modeling, simulation, and beamforming techniques.  
 The work was developed as part of the *Advanced Antenna Designs* course at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki**.
 
----
+--- 
 
 ## 📡 Project 1: Dual-Band H-Ring Antenna Design
 
